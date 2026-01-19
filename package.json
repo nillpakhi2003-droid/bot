@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Playwright Firefox bot for auto-locking questions",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "bot": "node bot.js"
+  },
+  "keywords": ["playwright", "firefox", "automation", "bot"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "ws": "^8.16.0"
+  }
+}
