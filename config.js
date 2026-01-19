@@ -12,7 +12,7 @@ module.exports = {
   
   // Firefox browser settings for Windows
   FIREFOX_PATH: "C:\\Program Files\\Mozilla Firefox\\firefox.exe",  // Windows Firefox path
-  FIREFOX_PROFILE: process.env.APPDATA + "\\Mozilla\\Firefox\\Profiles",  // Windows Firefox profile directory
+  FIREFOX_PROFILE: "C:\\Users\\sahid\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\wy9m15bd.default-release",  // Your actual Firefox profile
   HEADLESS: false,  // Set to true to run without UI
   
   // Website to navigate to (optional - if you want to click UI buttons)
